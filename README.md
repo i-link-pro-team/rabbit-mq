@@ -1,3 +1,5 @@
+![Logo](https://i.postimg.cc/xCtC038W/ilink.png)
+
 # NestJS RabbitMQ Client and strategy
 
 NestJS implementation of client and strategy hasn't enough features for work with RabbitMQ so i developed this one (basically, just a wrapper for [amqp-connection-manager](https://github.com/jwalton/node-amqp-connection-manager))
